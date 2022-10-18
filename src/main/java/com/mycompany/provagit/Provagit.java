@@ -12,6 +12,6 @@ package com.mycompany.provagit;
 public class Provagit {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hola Mon");
     }
 }
